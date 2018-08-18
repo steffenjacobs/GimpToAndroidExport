@@ -1,8 +1,7 @@
 ; - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-; Phoca Save Icons
-; Copyright (C) 2008 Jan Pavelka ( http://www.phoca.cz )
+; Android Icon Exporter (Phoca Save Icons)
+; Copyright (C) 2008 Steffen Jacobs, Jan Pavelka ( http://www.phoca.cz )
 ; All rights reserved
-; modified by Steffen Jacobs 2018
 ;
 ; This script is free software; you can redistribute it and/or modify
 ; it under the terms of the GNU General Public License as published by
